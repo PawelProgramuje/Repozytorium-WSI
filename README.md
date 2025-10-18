@@ -1,1 +1,1 @@
-Niestety udało mi się zrobić git switch przed mergem (nie wiem dlaczego) przez co zmiany zapisały się na obu branchach i mergowanie nie powiodło się, usunąłem zatem całe repo i zrobiłem je od nowa pomijając kroki z cofaniem comitów ze staging area itp. 
+Niestety udało mi się zrobić git switch przed mergem (nie wiem dlaczego) przez co zmiany zapisały się na obu branchach i mergowanie nie powiodło się, usunąłem zatem całe repo i zrobiłem je od nowa pomijając kroki z cofaniem comitów ze staging area itp (te które już raz zrobiłem). 
