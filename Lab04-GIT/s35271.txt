@@ -1,1 +1,2 @@
 Name: {swoje imie i nazwisko}
+University: PJATK
